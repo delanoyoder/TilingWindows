@@ -26,10 +26,12 @@ You can use the procedures and functions for Tiling Windows by typing the follow
 
 ### Procedures and Functions
 
-> (make_screen real real) -> screen
+\> (make_screen real real) -> screen
+
 Returns a special viewport object with an identifier of 1 and dimesions given to the procedure.
 
-> (width viewport) -> real
+\> (width viewport) -> real
+
 Returns the width of the given viewport.
 
 > (height viewport) -> real
