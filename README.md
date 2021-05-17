@@ -72,11 +72,11 @@ You can use the procedures and functions for Tiling Windows by typing the follow
 
 \> (_delete_ screen identifier) -> null
 
-> Deletes the viewport with the given identifier. If the viewport is active it will try to delete its neighbor if applicable. If the viewport is passive it will delete all child viewports that were derived from it.
+> Deletes the viewport with the given identifier. If the viewport is active it will try to delete its neighbor if applicable. If the viewport is passive it will delete all child viewports that were derived from it. This is done at O(log(n)).
 
 \> (search_and screen identifier) -> viewport
 
-> Returns a viewport with the identifier given that was derived from the screen given.
+> Returns a viewport with the identifier given that was derived from the screen given. This is done at O(log(n)).
 
 \> (destroy viewport) -> null
 
