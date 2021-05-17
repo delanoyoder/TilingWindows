@@ -114,7 +114,7 @@ It will test the basic functionality and their edge cases of a function or proce
 
 ### Problems to note
 
-The program can only handle one screen at a time and it does not take into account wether it is outside of its parent viewport when resizing.
+The program can only handle one screen at a time and when resizing it does not take into account wether the resized viewport is outside of its parent viewport.
 
 ## Authors
 
