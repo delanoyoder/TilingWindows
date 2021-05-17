@@ -96,17 +96,7 @@ You can use the procedures and functions for Tiling Windows by typing the follow
 
 ### Running the tests
 
-One way to run the test file is to open terminal (Mac), shell (Linux), or anything alike and navigate to the folder with the files TilingWindows.lisp and test.lisp.
-
-Next, open Common Lisp on the terminal by typing the following.
-
-```
-clisp
-```
-
-GNU CLISP should open.
-
-If you are using an IDE navigate to the files.
+Navigate to the directory which contains the files TilingWindows.lisp and test.lisp in your Common Lisp compiler.
 
 To run the test file simply type the following.
 
@@ -115,8 +105,6 @@ To run the test file simply type the following.
 ```
 
 All the tests will run at once and be output to the screen.
-
-
 
 ### Break down into end to end tests
 
