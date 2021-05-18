@@ -16,7 +16,7 @@ The program TilingWindows.lisp contains the functions and procedures for making 
 
 If you do not yet have a Common Lisp compiler on your system go to https://common-lisp.net/downloads and follow the instructions for your given compiler flavor of choice.
 
-Once you have it installed you can download the files TilingWindows.lisp and test.lisp.
+Once the compiler has been installed you can download the files TilingWindows.lisp and test.lisp.
 
 You can use the procedures and functions for Tiling Windows by typing the following in a Common Lisp compiler.
 
