@@ -10,7 +10,7 @@ The program TilingWindows.lisp contains the functions and procedures for making 
 
 * Must have a UNIX system.
 
-* Must have a Common Lisp compiler.
+* Must have a Common Lisp compiler installed.
 
 ### Installing
 
