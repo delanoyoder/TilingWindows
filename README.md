@@ -128,4 +128,3 @@ No License.
 
 * [Practical Common Lisp](http://gigamonkeys.com/book/)
 * [Lisp Tutorial](https://www.youtube.com/watch?v=ymSq4wHrqyU&t=1507s&ab_channel=DerekBanas)
-* [Lisp, The Quantum Programmer's Choice - Computerphile](https://www.youtube.com/watch?v=svmPz5oxMlI&ab_channel=Computerphile)
